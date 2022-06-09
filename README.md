@@ -1,2 +1,2 @@
 # web_last_project
-<a>https://github.com/redbuttonking/web_last_project</a>
+<a href="https://redbuttonking.github.io/web_last_project/">links</a>
